@@ -12,3 +12,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.film-list{
+  margin-left: 200px;
+}
+
+
+
+
+.link-container{
+ margin-top: 30px;
+ text-align: center;
+ text-align: center;
+ border: solid;
+ border-radius: 30px;
+ font-size: 20px;
+
+}
+  
